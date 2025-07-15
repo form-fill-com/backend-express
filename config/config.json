@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "mac",
+    "password": "",
+    "database": "form_fill_com",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "mac",
+    "password": "",
+    "database": "form_fill_com_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
